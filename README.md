@@ -1,6 +1,6 @@
 ### 民法典学习笔记 （未完成）
 
-> 主要整理自 https://www.bilibili.com/video/BV1At4y1y7ov
+> 主要整理自中国人民大学法学院各位老师的[录播讲解](https://www.bilibili.com/video/BV1At4y1y7ov)。
 
 - [x] 时代精神与中国特色
 - [ ] 总则编（施工中0%）
