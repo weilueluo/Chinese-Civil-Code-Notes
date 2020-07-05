@@ -1,6 +1,8 @@
 ### 民法典学习笔记
 
 > 主要整理自中国人民大学法学院各位老师的[录播讲解](https://www.bilibili.com/video/BV1At4y1y7ov)。
+>
+> 建议使用[Typora](https://typora.io/)来阅读。
 
 - [x] 时代精神与中国特色
 - [ ] 总则编（施工中0%）
