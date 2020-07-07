@@ -1,6 +1,6 @@
 ### 民法典学习笔记
 
-> 主要整理自中国人民大学法学院各位老师的[录播讲解](https://www.bilibili.com/video/BV1At4y1y7ov)。
+> 主要整理自中国人民大学法学院各位老师的[录播讲解](https://www.bilibili.com/video/BV1Zp4y1D7oq)。
 >
 > 建议使用[Typora](https://typora.io/)来阅读。
 
