@@ -12,7 +12,7 @@
 - [ ] 人格权2
 - [ ] 继承
 - [ ] 婚姻家庭
-- [ ] 侵权责任编
+- [ ] 侵权责任
 
 #### 阅读步骤
 1. 复制本仓库或者[下载zip文件](https://github.com/Redcxx/Chinese-Civil-Code-Notes/archive/master.zip)。
