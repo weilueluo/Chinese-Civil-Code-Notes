@@ -1,8 +1,6 @@
 ### 民法典学习笔记
 
 > 主要整理自中国人民大学法学院各位老师的[录播讲解](https://www.bilibili.com/video/BV1Zp4y1D7oq)。
->
-> 建议使用[Typora](https://typora.io/)来阅读。
 
 - [x] 时代精神与中国特色
 - [ ] 总则编（施工中 10%）
@@ -16,3 +14,8 @@
 - [ ] 婚姻家庭
 - [ ] 侵权责任编
 
+#### 阅读步骤
+1. 复制本仓库或者[下载zip文件](https://github.com/Redcxx/Chinese-Civil-Code-Notes/archive/master.zip)。
+2. 下载markdown阅读器[typora](https://typora.io/#download)（或自行选择其他）。
+3. 使用阅读器打开仓库的文件夹。
+4. 开始阅读。
