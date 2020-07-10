@@ -15,8 +15,8 @@
 - [ ] 侵权责任
 
 #### 阅读步骤
-1. 复制`git clone https://github.com/Redcxx/Chinese-Civil-Code-Notes.git`<br>
-   或者[下载](https://github.com/Redcxx/Chinese-Civil-Code-Notes/archive/master.zip)本仓库
+1. 使用`git clone https://github.com/Redcxx/Chinese-Civil-Code-Notes.git`复制仓库<br>
+   或者[下载](https://github.com/Redcxx/Chinese-Civil-Code-Notes/archive/master.zip)仓库
 2. [下载](https://typora.io/#download)markdown阅读器Typora（或自行选择）
 3. 使用阅读器打开仓库的文件夹
 4. 开始阅读
