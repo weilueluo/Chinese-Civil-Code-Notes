@@ -1,4 +1,4 @@
-### 民法典学习笔记
+## 民法典学习笔记
 
 > 主要整理自中国人民大学法学院各位老师的[录播讲解](https://www.bilibili.com/video/BV1Zp4y1D7oq)。
 
@@ -14,7 +14,7 @@
 - [ ] 婚姻家庭
 - [ ] 侵权责任
 
-#### 阅读步骤
+### 阅读步骤
 1. 复制仓库<br>
    - `git clone https://github.com/Redcxx/Chinese-Civil-Code-Notes.git`<br>
    - 或者[下载zip压缩包](https://github.com/Redcxx/Chinese-Civil-Code-Notes/archive/master.zip)
