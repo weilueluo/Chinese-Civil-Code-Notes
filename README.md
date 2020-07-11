@@ -29,5 +29,5 @@
 
 4. 开始阅读
 
-> *一切请以原视频为准，我此前未学过任何法律相关知识，欢迎指出笔记中错误的理解。*<br>
-> *不方便提issue的可发邮件至[这里](weilue.luo@student.manchester.ac.uk)，十分感谢。*
+> *注：一切请以原视频为准，我此前未学过任何法律相关知识，欢迎指出笔记中错误的理解。*<br>
+> *不方便提issue的可[发邮件给我](weilue.luo@student.manchester.ac.uk)，十分感谢。*
