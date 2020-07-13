@@ -15,6 +15,11 @@
 - [ ] 侵权责任
 
 ## :snowflake: 阅读步骤
+### 在线
+- 目前并没有建立网页，所以只能点击上面的文件看辣。写完笔记有空会搞一个的。
+
+### 本地
+
 1. 复制仓库<br>
    - `git clone https://github.com/Redcxx/Chinese-Civil-Code-Notes.git`<br>
    - 或者[下载zip压缩包](https://github.com/Redcxx/Chinese-Civil-Code-Notes/archive/master.zip)
