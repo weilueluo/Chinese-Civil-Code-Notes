@@ -1,6 +1,8 @@
 # :notebook: 民法典学习笔记
 
 > 主要整理自中国人民大学法学院各位老师的[录播讲解](https://www.bilibili.com/video/BV1Zp4y1D7oq)。
+>
+> 最近太忙辣。。乌龟更新中。。。
 
 - [x] 时代精神与中国特色
 - [ ] 总则编（施工中 60%）
@@ -15,6 +17,11 @@
 - [ ] 侵权责任
 
 ## :snowflake: 阅读步骤
+### 在线
+- 目前并没有建立网页，所以只能点击上面的文件看辣。写完笔记有空会搞一个的。
+
+### 本地
+
 1. 复制仓库<br>
    - `git clone https://github.com/Redcxx/Chinese-Civil-Code-Notes.git`<br>
    - 或者[下载zip压缩包](https://github.com/Redcxx/Chinese-Civil-Code-Notes/archive/master.zip)
