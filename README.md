@@ -29,7 +29,7 @@
 2. 下载markdown阅读器
    - 建议使用[Typora](https://typora.io/#download)
    
-3. 使用阅读器打开仓库的文件夹并开始阅读
+3. 使用阅读器打开本地仓库的文件夹并开始阅读
 
 
 ## :warning: 注意事项
