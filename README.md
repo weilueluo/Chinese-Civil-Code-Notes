@@ -34,4 +34,4 @@
 
 ## :warning: 注意事项
 > ***我此前未学过任何法律相关知识，一切请以原视频为准**。*<br>
-> 欢迎指出笔记中错误的理解，请[提issue](https://github.com/Redcxx/Chinese-Civil-Code-Notes/issues/new)或者[发邮件给我](weilue.luo@student.manchester.ac.uk)，十分感谢。
+> 欢迎指出笔记中错误的理解，请[提issue](https://github.com/Redcxx/Chinese-Civil-Code-Notes/issues/new)或者[发邮件给我](mailto:weilue.luo@student.manchester.ac.uk)，十分感谢。
