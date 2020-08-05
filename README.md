@@ -6,8 +6,8 @@
 
 - [x] 时代精神与中国特色
 - [x] 总则编
-- [ ] 物权编（施工中 85%）
-- [ ] 婚姻家庭
+- [x] 物权编
+- [ ] 婚姻家庭（施工中：0%）
 - [ ] 合同1
 - [ ] 合同2
 - [ ] 人格权1
@@ -33,7 +33,9 @@
 
 p.s. 以后写完会导出pdf哒，现在就先这样看着吧~
 
-
 ## :warning: 注意事项
-> ***我此前未学过任何法律相关知识，一切请以原视频为准**。*<br>
-> 欢迎指出笔记中错误的理解，请[提issue](https://github.com/Redcxx/Chinese-Civil-Code-Notes/issues/new)或者[发邮件给我](mailto:weilue.luo@student.manchester.ac.uk)，十分感谢。
+
+> 1. ***我此前未学过任何法律相关知识，一切请以原视频为准**。*<br>
+> 2. 文中出现的“我”都指讲解者。
+> 3. 欢迎指出笔记中错误的理解，请[提issue](https://github.com/Redcxx/Chinese-Civil-Code-Notes/issues/new)或者[发邮件给我](mailto:weilue.luo@student.manchester.ac.uk)，十分感谢。
+
