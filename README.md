@@ -41,7 +41,7 @@ p.s. 以后写完会导出pdf哒，现在就先这样看着吧~
 
 2. 文中出现的“我“都指讲解者；出现的“笔者”才是指记笔记的人。
 
-3. 文中的**粗体**为重点；<u>下划线</u>为对重点的补充，没时间的可以只读这些。
+3. 文中的**粗体**为重点；<u>下划线</u>为对重点的补充，没时间的可以只读这些（github markdown貌似不支持下划线）。
 
 4. 欢迎指出笔记中错误的理解，请[提issue](https://github.com/Redcxx/Chinese-Civil-Code-Notes/issues/new)或者[发邮件给我](mailto:weilue.luo@student.manchester.ac.uk)，十分感谢。
 
